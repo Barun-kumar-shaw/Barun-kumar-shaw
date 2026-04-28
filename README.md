@@ -22,7 +22,7 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 **Design & Modeling:**
 <p align="left">
   <img src="https://img.shields.io/badge/FreeCAD-2D9CFF?style=for-the-badge&logo=freecad&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/SolidWorks-E32213?style=for-the-badge&logo=solidworks&logoColor=white" />
 </p>
 
