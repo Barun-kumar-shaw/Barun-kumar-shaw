@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🔧 About Me
-I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Rourkela**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
+I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
 
 - 🚀 **Current Focus:** Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the basics of Aerodynamics.
 - ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
