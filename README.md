@@ -41,10 +41,6 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 - Built a high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
 - Automates friction factor iterations, proving my ability to turn complex physics formulas into functional software early in my degree.
 
-#### 2. 🛩️ Defense UAV Technical Macro (FreeCAD)
-- Programmed a Python-based FreeCAD macro (`.FCMacro`) to automate the generation of 3D models and A4 technical drafting sheets for defense drones.
-
-
 ---
 
 ### 📊 GitHub Analytics
