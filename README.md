@@ -44,8 +44,6 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 #### 2. 🛩️ Defense UAV Technical Macro (FreeCAD)
 - Programmed a Python-based FreeCAD macro (`.FCMacro`) to automate the generation of 3D models and A4 technical drafting sheets for defense drones.
 
-#### 3. 🚁 MR Fluid Landing Gear Simulation
-- Solved second-order ODEs using the **Runge-Kutta (RK4) method** in MATLAB to simulate a Magneto-Rheological fluid-based UAV landing gear system.
 
 ---
 
