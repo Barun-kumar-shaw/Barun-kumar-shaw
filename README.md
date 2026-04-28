@@ -13,7 +13,7 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 - ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
 - 🌱 **Currently Learning:** Moving from basic CAD towards advanced computational tools like FEA and CFD.
 - 💡 **Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for Aerospace and Core Manufacturing sectors.
-- 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-shaw)
+- 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/)
 
 ---
 
