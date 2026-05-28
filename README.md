@@ -68,14 +68,5 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 
 <br />
 <div align="center">
-  
-# GitHub remote repository ko link karo
-git remote add origin https://github.com/Barun-kumar-shaw/portfolio.git
-
-# Branch set karo
-git branch -M main
-
-# Code ko GitHub par push karo (iske baad agar login popup aaye to ek click me authorize kar dena)
-git push -u origin main
-  <i>"Great engineers start early. Blending physics with code to build the future."</i>
+<i>"Great engineers start early. Blending physics with code to build the future."</i>
 </div>
