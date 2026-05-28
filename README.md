@@ -41,6 +41,7 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 #### 1. 🌊 [1D Pipeline Hydraulics Solver](https://github.com/Barun-kumar-shaw/Pipe-Loss-Calculator)
 - Built a high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
 - Automates friction factor iterations, proving my ability to turn complex physics formulas into functional software early in my degree.
+- link 🔗 barun-kumar-shaw-0129pipe-solver.streamlit.app/?
 
 ---
 
