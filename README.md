@@ -31,12 +31,9 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 
 ### 🌐 Featured Deployments & Live Projects
 
-#### 1. 🖥️ [My Interactive Web Portfolio](https://barun-kumar-shaw.github.io/portfolio/)
-*   **What it is:** My personal cyber-mechanical engineering portfolio hub.
-*   **Interactive Simulation:** Features a live, in-browser **1D Pipe Loss Simulator** that solves Colebrook-White friction factors and animates fluid flow velocities in real-time as you drag the physical parameters!
-*   **Launch Link:** [barun-kumar-shaw.github.io/portfolio/](https://barun-kumar-shaw.github.io/portfolio/) 🚀
 
-#### 2. 🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
+
+#### 1.🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
 *   **What it is:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
 *   **Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
 *   **Launch Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
@@ -71,5 +68,14 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 
 <br />
 <div align="center">
+  
+# GitHub remote repository ko link karo
+git remote add origin https://github.com/Barun-kumar-shaw/portfolio.git
+
+# Branch set karo
+git branch -M main
+
+# Code ko GitHub par push karo (iske baad agar login popup aaye to ek click me authorize kar dena)
+git push -u origin main
   <i>"Great engineers start early. Blending physics with code to build the future."</i>
 </div>
