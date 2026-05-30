@@ -4,10 +4,7 @@
 
 <h3 align="center">Building the Foundation of Mechanical Engineering with High-Tech Automation ⚙️💻</h3>
 
-<p align="center">
-  <a href="https://github.com/Barun-kumar-shaw">
-    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
+
   <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
     <img src="https://img.shields.io/badge/STREAMLIT%20APP-ffaa00?style=for-the-badge&logo=streamlit&logoColor=black" />
   </a>
