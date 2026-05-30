@@ -1,9 +1,10 @@
-<div align="center">
-  <!-- Replace the src link below with the link to your uploaded Fighter Jet banner image! -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,100:0052D4&height=250&section=header&text=Barun%20Kumar%20Shaw&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20|%20CAD%20Design%20|%20Aerospace%20Enthusiast&descAlignY=55&descAlign=62" />
+
+- <div align="center">
+  <!-- BHAI, YAHAN APNI UPLOADED FIGHTER JET WALI IMAGE KA LINK DAALNA -->
+  <img src="https://raw.githubusercontent.com/Barun-kumar-shaw/Barun-kumar-shaw/main/aerospace-banner.jpg" alt="Barun Kumar Shaw Aerospace Banner" width="100%" />
 </div>
 
-<h3 align="center">Building the Foundation of Mechanical Engineering with High-Tech Automation & Aerodynamics ✈️💻</h3>
+<h3 align="center">🚀 Propelling Mechanical Engineering with High-Tech Automation & Aerodynamics ✈️</h3>
 
 <p align="center">
   <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
@@ -20,31 +21,35 @@
   </a>
 </p>
 
----
-
-### 👨‍🔧 About Me
-I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
-
-- 🚀 **Current Focus:** Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
-- ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
-- 🌱 **Currently Learning:** Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
-- 💡 **Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
-- 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mechanical+Engineering+Student+⚙️;Passionate+about+Aerospace+%26+Fighter+Jets+✈️;3D+CAD+%7C+Automation+%7C+Aerodynamics+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
-### ✈️ Featured Deployments & Live Projects
+### 👨‍🚀 Commander's Log (About Me)
+I am a dedicated **First-Year Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering, my true passion lies in the skies and beyond. I am driven by the physics of **Aerodynamics**, **Fighter Jets**, and **Space Exploration**.
+
+- 🚀 **Current Mission:** Mastering 3D CAD Design, automating engineering calculations with Python, and understanding the mechanics of high-speed flight.
+- ⚙️ **Core Arsenal:** Engineering Mechanics, Physics Simulations, and Python Programming.
+- 🌱 **Flight Path:** Transitioning from basic CAD to advanced computational tools like **FEA (Finite Element Analysis)** and **CFD (Computational Fluid Dynamics)** for aerospace applications.
+- 💡 **Ultimate Goal:** To engineer next-generation aircraft and spacecraft, seamlessly blending first principles with software automation for the **Aerospace and Defense sectors**.
+- 📫 **Establish Contact:** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
+
+---
+
+### 🛩️ Mission Control & Live Projects
 
 #### 1. 🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
-*   **What it is:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
-*   **Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
-*   **Launch Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
+*   **Mission Brief:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
+*   **Automation Engine:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
+*   **Launch Pad:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🚀
 
 ---
 
-### 🛠️ Tech Stack & Engineering Tools
+### 🛠️ Engineering Bay & Tech Stack
 
-**Design & 3D Modeling:**
+**Aerospace Design & 3D Modeling:**
 <p align="left">
   <img src="https://img.shields.io/badge/FreeCAD-2D9CFF?style=for-the-badge&logo=freecad&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
@@ -52,7 +57,7 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
   <img src="https://img.shields.io/badge/AutoCAD-E32213?style=for-the-badge&logo=autocad&logoColor=white" />
 </p>
 
-**Programming & Problem Solving:**
+**Flight Computers & Programming:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -61,14 +66,14 @@ I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student
 
 ---
 
-### 📊 GitHub Analytics
+### 🛰️ Radar & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barun-kumar-shaw&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=nightowl&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barun-kumar-shaw&theme=nightowl&hide_border=true" width="48%" />
 </div>
 
 <br />
 <div align="center">
-<i>"Great engineers start early. Blending physics with code to build the future of Aerospace and Mechanical Engineering." 🚀✈️</i>
+<i>"Great engineers start early. Blending physics with code to build the aircraft and spacecraft of tomorrow." ✈️🚀</i>
 </div>
