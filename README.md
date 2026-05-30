@@ -5,9 +5,11 @@
 <h3 align="center">Building the Foundation of Mechanical Engineering with High-Tech Automation ⚙️💻</h3>
 
 
-  <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
+
+   <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
     <img src="https://img.shields.io/badge/STREAMLIT%20APP-ffaa00?style=for-the-badge&logo=streamlit&logoColor=black" />
   </a>
+  
   <a href="https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
