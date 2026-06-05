@@ -41,19 +41,22 @@ Here are the three core aspects of my engineering journey, represented by my Min
   <table width="100%">
     <tr>
       <td width="33%" align="center">
-        <b>🧑‍💻 The Coder</b><br>
+        <b>🧑‍💻 The Coder (Steve)</b><br>
         <i>Writing Redstone logic and Python scripts.</i><br>
-        <img src="https://media.tenor.com/R_wR3_0Q13UAAAAM/minecraft-computer.gif" width="180" alt="Minecraft Character Coding" />
+        <br>
+        <img src="https://starlightskins.lunareclipse.studio/render/reading/Steve/full" width="120" alt="Steve Coding" />
       </td>
       <td width="33%" align="center">
-        <b>🔥 The Converter</b><br>
+        <b>🔥 The Converter (Alex)</b><br>
         <i>Smelting raw ideas into engineered solutions.</i><br>
-        <img src="https://media.tenor.com/b99x8lR6XGgAAAAM/minecraft-furnace.gif" width="180" alt="Minecraft Character Converting" />
+        <br>
+        <img src="https://starlightskins.lunareclipse.studio/render/marching/Alex/full" width="120" alt="Alex Working" />
       </td>
       <td width="33%" align="center">
-        <b>🛠️ The Builder</b><br>
+        <b>🛠️ The Builder (Steve)</b><br>
         <i>Assembling cars, buggies, and complex machines.</i><br>
-        <img src="https://media.tenor.com/15E3hB95WfcAAAAM/minecraft-car.gif" width="180" alt="Minecraft Character Building Car" />
+        <br>
+        <img src="https://starlightskins.lunareclipse.studio/render/lunging/Steve/full" width="120" alt="Steve Building" />
       </td>
     </tr>
   </table>
@@ -74,10 +77,10 @@ Here are the three core aspects of my engineering journey, represented by my Min
 
 **Crafting Tables (Design & 3D Modeling):**
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD_0.19_Logo.svg" alt="FreeCAD" height="40" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/SolidWorks_Logo.svg" alt="SolidWorks" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/autocad.svg" alt="AutoCAD" height="40" style="margin-right: 15px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-1.svg" alt="Fusion 360 / Autodesk" height="40" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD_0.19_Logo.svg/150px-FreeCAD_0.19_Logo.svg.png" alt="FreeCAD" height="40" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SolidWorks_Logo.svg/200px-SolidWorks_Logo.svg.png" alt="SolidWorks" height="40" style="margin-right: 15px;" />
+  <img src="https://img.icons8.com/fluency/144/autocad.png" alt="AutoCAD" height="40" style="margin-right: 15px;" />
+  <img src="https://img.icons8.com/color/144/autodesk.png" alt="Fusion 360 / Autodesk" height="40" style="margin-right: 15px;" />
 </p>
 
 **Enchantments (Programming & Problem Solving):**
