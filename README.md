@@ -53,8 +53,7 @@
 <br>
 <h3>🛠️ TECH STACK & ENGINEERING TOOLS</h3>
 <p><b>Design & 3D Modeling</b><br>
-<img src="https://img.shields.io/badge/Fusion%20360-1e1e1e?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/SolidWorks-e32224?style=for-the-badge&logo=solidworks&logoColor=white" />
+<img src="https://img.shields.io/badge/FreeCAD-1e1e1e?style=for-the-badge&logo=freecad&logoColor=white" />
 <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autocad&logoColor=white" />
 </p>
 <p><b>Programming & Problem Solving</b><br>
