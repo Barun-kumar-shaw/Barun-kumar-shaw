@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- APNI BANNER IMAGE KA LINK YAHAN DAAL DENA -->
-  <img src="YOUR_UPLOADED_BANNER_IMAGE_LINK_HERE.png" width="100%" style="border-radius: 10px;" />
+  <!-- Red Moving Fluid Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,100:ff0000&height=250&section=header&text=Barun%20Kumar%20Shaw&fontSize=60&fontColor=ffffff&desc=Mechanical%20Engineering%20Student%20%7C%20CAD%20Design%20%7C%20Aerospace%20Enthusiast&descSize=20&descAlignY=70&descAlign=50" width="100%" style="border-radius: 10px;" />
 </div>
 <br>
 <p align="center">
   <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
     <img src="https://img.shields.io/badge/STREAMLIT%20APP-ffaa00?style=for-the-badge&logo=streamlit&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/">
+  <a href="https://www.linkedin.com/in/barun-shaw-08a36a266">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Barun-kumar-shaw">
@@ -16,20 +16,26 @@
   <a href="https://x.com/Barun7955420779">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://dev.to/barunkumarshaw">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://gdg.community.dev/u/mv3bkx/#/mytickets">
+    <img src="https://img.shields.io/badge/GDG%20COMMUNITY-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 </p>
 <br>
 <table width="100%" style="border: none;">
 <tr>
 <td width="33%" valign="top">
 <h3>📄 ABOUT ME</h3>
-<p>I am a dedicated First-Year (Second Semester) Mechanical Engineering student at <b>NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)</b>. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems.</p>
+<p><b>1st-Year Mechanical Engineering @ NIT Kolkata ⚙️ | Passionate about Python, MATLAB & CAD Automation | Bridging the gap between core physics and code 💻</b></p>
+<p>While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems.</p>
 <ul>
 <li><b>Currently Focusing:</b> 3D CAD Design, automating engineering calculations with Python, and exploring the physics of Aerodynamics & Flight.</li>
 <li><b>Core Competencies:</b> Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.</li>
 <li><b>Currently Learning:</b> Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).</li>
-<li><b>Goal:</b> To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the Aerospace, Defense, and Core Manufacturing sectors.</li>
 </ul>
-<p><i><a href="https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/">LinkedIn</a> | <a href="https://github.com/Barun-kumar-shaw">GitHub</a> | <a href="https://x.com/Barun7955420779">X (Twitter)</a></i></p>
+<p><i><a href="https://www.linkedin.com/in/barun-shaw-08a36a266">LinkedIn</a> | <a href="https://github.com/Barun-kumar-shaw">GitHub</a> | <a href="https://x.com/Barun7955420779">X (Twitter)</a> | <a href="https://dev.to/barunkumarshaw">Dev.to</a></i></p>
 <br>
 <h3>📊 GITHUB ANALYTICS</h3>
 <p align="center">
@@ -59,10 +65,8 @@
 <br>
 <h3>📈 QUICK STATS</h3>
 <p>
-<b>📦 Repositories:</b> 6+ <br>
-<b>⭐ Stars Earned:</b> 8+ <br>
-<b>👥 Followers:</b> 5+ <br>
-<b>🤝 Following:</b> 3+
+<b>👥 Followers:</b> 1 <br>
+<b>🤝 Following:</b> 4
 </p>
 </td>
 <td width="33%" valign="top">
