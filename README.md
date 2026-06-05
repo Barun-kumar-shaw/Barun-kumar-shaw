@@ -6,7 +6,7 @@
 
 # 🏎️ BARUN KUMAR SHAW ✈️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Python+Programmer+%26+CAD+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Python+Programmer;2D+CAD+MODEL+DESIGNER+%26+2D+DRAFTING;Cross-Platform+App+Developer" />
 
 <br>
 
@@ -37,12 +37,12 @@
 
 ## 🚗 About Me
 
-I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
+I am a **First-Year Mechanical Engineering** student at **NIT Kolkata**. I strongly believe that a true engineering mindset has no boundaries—whether it is designing complex physical machines or coding modern digital interfaces, it is all about building real solutions.
 
-- 🚀 **Current Focus:** Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
-- ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
-- 🌱 **Currently Learning:** Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
-- 💡 **Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
+- ⚙️ **Core Mechanical & CAD:** I specialize in Parametric 3D CAD modeling and have recently stepped out of the 3D space to learn the hardcore reality of **2D Mechanical Drafting**, creating General Arrangement (GA) layouts for conceptual UAV Chassis.
+- 💻 **Software & App Dev:** I automate engineering calculations with Python. Recently, I was the *only* Mechanical student in a 250+ developer GDG workshop where I built and deployed a custom cross-platform app using **React Native & Expo SDK**.
+- 🛩️ **Domain Focus:** Defense, Aerospace, Industry 4.0, Rail (EPC), and R&D.
+- 💡 **Goal:** To bridge the gap between Fluid Dynamics/Core Physics and Software Automation.
 - 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
 
 ```python
