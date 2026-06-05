@@ -18,88 +18,48 @@
   <a href="https://x.com/Barun7955420779">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+<div align="center">
+  <!-- MERA BHAI, YAHAN PAR APNI WALI AMAZING F1 IMAGE KA LINK DAAL DENA! -->
+  <img src="YOUR_UPLOADED_F1_IMAGE_LINK_HERE.png" width="100%" alt="Code Commit Podium" style="border-radius: 15px;" />
+</div>
+
+<h3 align="center">BUILD. PUSH. RACE. REPEAT. 🏎️🏁</h3>
+<p align="center"><i>Building the Foundation of Mechanical Engineering with High-Tech Automation & Aerodynamics.</i></p>
+
+<p align="center">
+  <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
+    <img src="https://img.shields.io/badge/STREAMLIT%20APP-ffaa00?style=for-the-badge&logo=streamlit&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/barunkumarshaw">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://x.com/Barun7955420779">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ⛏️ About My Journey (Minecraft Edition)
-I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already mining into the depths of coding and crafting 3D models to solve physical problems. 
+### 💻 Telemetry Logs (About Me)
 
-- 💎 **Current Quest:** Mastering 3D CAD Design, building Redstone-like automation with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
-- ⚙️ **Core Enchantments:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
-- 🌱 **Currently Crafting:** Upgrading from basic CAD tools towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
-- 💡 **Endgame Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
-- 📫 **Join My Server (Reach out to me):** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
+```javascript
+// ENGINEERED TO WIN
+class Engineer {
+    constructor() {
+        this.name = "Barun Kumar Shaw";
+        this.role = "Mechanical Engineering Student (NIT Kolkata)";
+        this.team = "Aerospace & F1 Innovation";
+        this.goal = "P1";
+    }
 
----
+    race(semesters) {
+        while (semesters--) {
+            this.learn(["3D CAD Design", "Python Automation", "FEA", "CFD"]);
+            this.pushLimits();
+        }
+    }
+}
 
-### 🎮 The Mechanics in Action
-
-Here are the three core aspects of my engineering journey, represented by my Minecraft characters!
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center">
-        <b>🧑‍💻 The Coder (Steve)</b><br>
-        <i>Writing Redstone logic and Python scripts.</i><br>
-        <br>
-        <img src="https://starlightskins.lunareclipse.studio/render/reading/Steve/full" width="120" alt="Steve Coding" />
-      </td>
-      <td width="33%" align="center">
-        <b>🔥 The Converter (Alex)</b><br>
-        <i>Smelting raw ideas into engineered solutions.</i><br>
-        <br>
-        <img src="https://starlightskins.lunareclipse.studio/render/marching/Alex/full" width="120" alt="Alex Working" />
-      </td>
-      <td width="33%" align="center">
-        <b>🛠️ The Builder (Steve)</b><br>
-        <i>Assembling cars, buggies, and complex machines.</i><br>
-        <br>
-        <img src="https://starlightskins.lunareclipse.studio/render/lunging/Steve/full" width="120" alt="Steve Building" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🏰 Featured Deployments & Live Projects
-
-#### 1. 🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
-*   **The Blueprint:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
-*   **Redstone Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
-*   **Portal Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
-
----
-
-### 🧰 Inventory (Tech Stack & Engineering Tools)
-
-**Crafting Tables (Design & 3D Modeling):**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD_0.19_Logo.svg/150px-FreeCAD_0.19_Logo.svg.png" alt="FreeCAD" height="40" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SolidWorks_Logo.svg/200px-SolidWorks_Logo.svg.png" alt="SolidWorks" height="40" style="margin-right: 15px;" />
-  <img src="https://img.icons8.com/fluency/144/autocad.png" alt="AutoCAD" height="40" style="margin-right: 15px;" />
-  <img src="https://img.icons8.com/color/144/autodesk.png" alt="Fusion 360 / Autodesk" height="40" style="margin-right: 15px;" />
-</p>
-
-**Enchantments (Programming & Problem Solving):**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="45" style="margin-right: 15px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="45" style="margin-right: 15px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="45" style="margin-right: 15px;" />
-</p>
-
----
-
-### 📊 Server Stats (GitHub Analytics)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barun-kumar-shaw&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<br />
-<div align="center">
-<i>"Great engineers start early. Blending physics with code to build the future of Aerospace and Mechanical Engineering." 🚀✈️</i>
-</div>
