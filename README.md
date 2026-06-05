@@ -6,7 +6,7 @@
 
 # 🏎️ BARUN KUMAR SHAW ✈️
 
-### Mechanical Engineering Student | CAD Design | Aerospace Enthusiast
+### Mechanical Engineering | 3dCAD Design | Aerospace Enthusiast | 2D CAD DRAFTING | 2D CAD MODELS OF 3DCAD 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Python+Programmer+%26+CAD+Designer" />
 
@@ -17,7 +17,7 @@
 ## 🚗 About Me
 
 ```yaml
-I am a dedicated *First-Year (Second Semester) Mechanical Engineering* student at *NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)*. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
+I am a dedicated *First-Year (Second Semester) Mechanical Engineering* at *NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)*. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
 
 - 🚀 *Current Focus:* Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of *Aerodynamics & Fighter Jets* 🛩️.
 - ⚙️ *Core Competencies:* Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
