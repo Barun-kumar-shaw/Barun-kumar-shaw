@@ -1,92 +1,76 @@
-<!-- HEADER IMAGE -->
+
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/4f/9b/814f9bd0ec3dd6717a02db163a890539.gif" width="100%" alt="Tech Header" />
+  <!-- Replace the src link below with the link to your uploaded Fighter Jet banner image! -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,100:0052D4&height=250&section=header&text=Barun%20Kumar%20Shaw&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechanical%20Engineering%20Student%20|%20CAD%20Design%20|%20Aerospace%20Enthusiast&descAlignY=55&descAlign=62" />
 </div>
 
-<h2 align="center">Namaste 🙏 I'm Barun Kumar Shaw</h2>
+<h3 align="center">Building the Foundation of Mechanical Engineering with High-Tech Automation & Aerodynamics ✈️💻</h3>
 
 <p align="center">
-<b>I am a dedicated First-Year (Second Semester) Mechanical Engineering student at NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY).</b> While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barun-kumar-shaw&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Barun-kumar-shaw?label=FOLLOWERS&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Barun-kumar-shaw?label=STARS&style=flat&color=0e75b6" alt="Stars" />
+  <a href="https://barun-kumar-shaw-0129pipe-solver.streamlit.app/">
+    <img src="https://img.shields.io/badge/STREAMLIT%20APP-ffaa00?style=for-the-badge&logo=streamlit&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/barunkumarshaw">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://x.com/Barun7955420779">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>💫 About Me</h3>
-      <ul>
-        <li>🚀 <b>Current Focus:</b> Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of Aerodynamics & Fighter Jets 🛩️.</li>
-        <li>⚙️ <b>Core Competencies:</b> Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.</li>
-        <li>🌱 <b>Currently Learning:</b> Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).</li>
-        <li>💡 <b>Goal:</b> To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the Aerospace, Defense, and Core Manufacturing sectors.</li>
-        <li>⚡ <b>Quote:</b> <i>"Great engineers start early. Blending physics with code to build the future of Aerospace and Mechanical Engineering."</i> 🚀✈️</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Coding / Engineering Animation GIF -->
-      <img src="https://raw.githubusercontent.com/kaushik268/kaushik268/master/assets/programmer.gif" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+### 👨‍🔧 About Me
+I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
 
-### 📬 Connect me :
+- 🚀 **Current Focus:** Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
+- ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
+- 🌱 **Currently Learning:** Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
+- 💡 **Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
+- 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
 
+---
+
+### ✈️ Featured Deployments & Live Projects
+
+#### 1. 🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
+*   **What it is:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
+*   **Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
+*   **Launch Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
+
+---
+
+### 🛠️ Tech Stack & Engineering Tools
+
+**Design & 3D Modeling:**
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Barun-kumar-shaw"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <img src="https://img.shields.io/badge/FreeCAD-2D9CFF?style=for-the-badge&logo=freecad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-E32213?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-E32213?style=for-the-badge&logo=autocad&logoColor=white" />
 </p>
 
-### ⛷️ Github Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barun-kumar-shaw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+**Programming & Problem Solving:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📚 Languages & Tools I Have Placed My Hands On
+---
 
-<p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <!-- Mechanical / CAD -->
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/SolidWorks-E32526?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/MATLAB-e25f19?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <!-- Web / App -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+### 📊 GitHub Analytics
 
-### ⭐ Best Repositories
-
-<p align="center">
-  <a href="https://github.com/Barun-kumar-shaw/Pipe-Loss-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barun-kumar-shaw&repo=Pipe-Loss-Calculator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pipe-Loss-Calculator" />
-  </a>
-</p>
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_BMAC_ID"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-</p>
-
-<!-- FOOTER IMAGE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/footer.gif" width="100%" alt="Footer pixel art" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barun-kumar-shaw&theme=radical&hide_border=true" width="48%" />
 </div>
 
+<br />
+<div align="center">
+<i>"Great engineers start early. Blending physics with code to build the future of Aerospace and Mechanical Engineering." 🚀✈️</i>
+</div>
