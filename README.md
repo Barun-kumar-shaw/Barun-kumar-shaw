@@ -22,46 +22,74 @@
 
 ---
 
-### 👨‍🔧 About Me
-I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already passionate about going beyond the syllabus by using coding and 3D modeling to solve physical problems. 
+### ⛏️ About My Journey (Minecraft Edition)
+I am a dedicated **First-Year (Second Semester) Mechanical Engineering** student at **NIT Kolkata (NARULA INSTITUTE OF TECHNOLOGY)**. While I am building my foundation in core engineering principles, I am already mining into the depths of coding and crafting 3D models to solve physical problems. 
 
-- 🚀 **Current Focus:** Mastering 3D CAD Design, automating engineering calculations with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
-- ⚙️ **Core Competencies:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
-- 🌱 **Currently Learning:** Moving from basic CAD towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
-- 💡 **Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
-- 📫 **Reach out to me:** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
+- 💎 **Current Quest:** Mastering 3D CAD Design, building Redstone-like automation with Python, and exploring the physics of **Aerodynamics & Fighter Jets** 🛩️.
+- ⚙️ **Core Enchantments:** Engineering Mechanics, Engineering Drawing, Physics Simulations, and Python Programming.
+- 🌱 **Currently Crafting:** Upgrading from basic CAD tools towards advanced computational tools like FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics).
+- 💡 **Endgame Goal:** To become a next-generation Mechanical Engineer who seamlessly blends first principles with software automation for the **Aerospace, Defense, and Core Manufacturing sectors**.
+- 📫 **Join My Server (Reach out to me):** [LinkedIn](https://www.linkedin.com/in/barun-kumar-shaw-08a36a266/) | [GitHub](https://github.com/Barun-kumar-shaw) | [X (Twitter)](https://x.com/Barun7955420779) | [Dev.to](https://dev.to/barunkumarshaw)
 
 ---
 
-### ✈️ Featured Deployments & Live Projects
+### 🎮 The Mechanics in Action
+
+Here are the three core aspects of my engineering journey, represented by my Minecraft characters!
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <b>🧑‍💻 The Coder</b><br>
+        <i>Writing Redstone logic and Python scripts.</i><br>
+        <img src="https://media.tenor.com/R_wR3_0Q13UAAAAM/minecraft-computer.gif" width="180" alt="Minecraft Character Coding" />
+      </td>
+      <td width="33%" align="center">
+        <b>🔥 The Converter</b><br>
+        <i>Smelting raw ideas into engineered solutions.</i><br>
+        <img src="https://media.tenor.com/b99x8lR6XGgAAAAM/minecraft-furnace.gif" width="180" alt="Minecraft Character Converting" />
+      </td>
+      <td width="33%" align="center">
+        <b>🛠️ The Builder</b><br>
+        <i>Assembling cars, buggies, and complex machines.</i><br>
+        <img src="https://media.tenor.com/15E3hB95WfcAAAAM/minecraft-car.gif" width="180" alt="Minecraft Character Building Car" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🏰 Featured Deployments & Live Projects
 
 #### 1. 🌊 [1D Pipeline Hydraulics Solver (Streamlit)](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/)
-*   **What it is:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
-*   **Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
-*   **Launch Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
+*   **The Blueprint:** A high-precision Python calculator for major/minor head losses using the **Colebrook-White equation** and **Hagen-Poiseuille solutions**.
+*   **Redstone Automation:** Automates iterative numerical calculations (Newton-Raphson/Secant methods) for flow regime and friction factor computations.
+*   **Portal Link:** [barun-kumar-shaw-0129pipe-solver.streamlit.app](https://barun-kumar-shaw-0129pipe-solver.streamlit.app/) 🧪
 
 ---
 
-### 🛠️ Tech Stack & Engineering Tools
+### 🧰 Inventory (Tech Stack & Engineering Tools)
 
-**Design & 3D Modeling:**
+**Crafting Tables (Design & 3D Modeling):**
 <p align="left">
-  <img src="https://img.shields.io/badge/FreeCAD-2D9CFF?style=for-the-badge&logo=freecad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-E32213?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E32213?style=for-the-badge&logo=autocad&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD_0.19_Logo.svg" alt="FreeCAD" height="40" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/SolidWorks_Logo.svg" alt="SolidWorks" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/autocad.svg" alt="AutoCAD" height="40" style="margin-right: 15px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/autodesk-1.svg" alt="Fusion 360 / Autodesk" height="40" style="margin-right: 15px;" />
 </p>
 
-**Programming & Problem Solving:**
+**Enchantments (Programming & Problem Solving):**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="45" style="margin-right: 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="45" style="margin-right: 15px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="45" style="margin-right: 15px;" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Server Stats (GitHub Analytics)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Barun-kumar-shaw&show_icons=true&theme=radical&hide_border=true" width="48%" />
