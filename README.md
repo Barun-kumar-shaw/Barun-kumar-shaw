@@ -37,7 +37,7 @@
 
 ## 🚗 About Me
 
-I am a **First-Year Mechanical Engineering** student at **NIT Kolkata**. I strongly believe that a true engineering mindset has no boundaries—whether it is designing complex physical machines or coding modern digital interfaces, it is all about building real solutions.
+I am a **second-Year Mechanical Engineering** student at **NIT Kolkata**. I strongly believe that a true engineering mindset has no boundaries—whether it is designing complex physical machines or coding modern digital interfaces, it is all about building real solutions.
 
 - ⚙️ **Core Mechanical & CAD:** I specialize in Parametric 3D CAD modeling and have recently stepped out of the 3D space to learn the hardcore reality of **2D Mechanical Drafting**, creating General Arrangement (GA) layouts for conceptual UAV Chassis.
 - 💻 **Software & App Dev:** I automate engineering calculations with Python. Recently, I was the *only* Mechanical student in a 250+ developer GDG workshop where I built and deployed a custom cross-platform app using **React Native & Expo SDK**.
